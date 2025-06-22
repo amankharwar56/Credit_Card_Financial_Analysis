@@ -5,8 +5,8 @@ This project presents an industry-level interactive Power BI dashboard analyzing
 📊 Project Overview
 Two core dashboards were developed:
 
-1.  **Credit Card Customer Report**
-Key insights:
+**1.  Credit Card Customer Report
+Key insights:**
 
 Revenue vs. Age, Gender, and Marital Status
 
@@ -18,9 +18,8 @@ Education level and job profile analysis
 
 Dependent count and customer segmentation
 
-2.  **Credit Card Transaction Report**
-Key insights:
-
+**2.  Credit Card Transaction Report
+Key insights:**
 Quarterly revenue and transaction trends
 
 Revenue distribution by:
