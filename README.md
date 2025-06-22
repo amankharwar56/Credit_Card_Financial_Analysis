@@ -1,5 +1,5 @@
 # Credit_Card_Financial_Analysis
-💳 #Credit Card Analytics Dashboard - Power BI + SQL Project#
+💳 ##Credit Card Analytics Dashboard - Power BI + SQL Project
 This project presents an industry-level interactive Power BI dashboard analyzing credit card customer and transaction data. The dashboards are built to provide actionable insights across demographics, spending patterns, revenue generation, and card usage behavior. This setup mimics a live production environment using SQL integration for weekly refresh and DAX queries for dynamic KPIs.
 
 📊 Project Overview
