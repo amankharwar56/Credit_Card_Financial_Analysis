@@ -55,6 +55,7 @@ Showcases capabilities in data modeling, dashboard design, and business insight 
 Follows best practices for visual storytelling in analytics
 
 🖼️ Screenshots
-![Alt Text](![![Credit Card Customer Report](https://github.com/user-attachments/assets/72978d7d-b071-49e9-8ca8-89cfaa905a5b)
-Credit Card Transaction Report](https://github.com/user-attachments/assets/4698c7c6-fb52-4dc1-9df7-6e670c8827a4)
+![Alt Text](![Credit Card Customer Report](https://github.com/user-attachments/assets/cbc82079-005d-487f-93d4-a9f7ac387f9e))
+![Alt Text](![Credit Card Transaction Report](https://github.com/user-attachments/assets/3a3eb4d4-3133-4d8c-9196-5ed7d0c3d1b5)
 )
+
